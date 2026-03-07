@@ -1,3 +1,6 @@
 # Desafio MBA Engenharia de Software com IA - Full Cycle
 
-Descreva abaixo como executar a sua solução.
+## WIP - Descrição da solução e de como executar.
+
+> *[Fernando Correa](https://github.com/fer-correa) - 2026*
+
