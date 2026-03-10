@@ -1,5 +1,5 @@
 import sys
-from search import get_rag_chain
+from src.search import get_rag_chain
 
 def run_chat():
     print("="*50)
